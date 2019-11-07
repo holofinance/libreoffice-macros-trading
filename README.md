@@ -1,3 +1,3 @@
-# LibreOffice Utils
+# LibreOffice Macros for Trading and Investing
 
-Repository for useful LibreOffice Utils
+Repository of useful LibreOffice Macros for trading and investing
